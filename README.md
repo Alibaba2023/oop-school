@@ -20,13 +20,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decoding_Morse_Code <a name="about-project"></a>
+# 📖 OOP School <a name="about-project"></a>
 
-The purpose of this app is save the data about school students and teachers
+The purpose of this app is to save data about school students and teachers
 
 ## 🛠 Built With <a name="built-with"></a>
 
-The project is built manage school.
+The project is built to manage a school.
 
 
 ### Tech Stack <a name="tech-stack"></a>
