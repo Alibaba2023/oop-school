@@ -20,6 +20,6 @@ class Person
 end
 
 person = Person.new(25)
-person.name="Ali"
-person.parent_permission=true
+person.name = 'Ali'
+person.parent_permission = true
 puts person
