@@ -99,7 +99,7 @@ git clone git@github.com:Alibaba2023/oop-school.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](git@github.com:Alibaba2023/oop-school.git/issues).
+Feel free to check the [issues page](https://github.com:Alibaba2023/oop-school.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
